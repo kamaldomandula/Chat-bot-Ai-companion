@@ -20,7 +20,7 @@ It features a stylish dark UI, voice input via microphone, and AI voice replies 
 
 ## 📸 Screenshot
 
-![screenshot](assets/screenshot.png)
+![image](https://github.com/user-attachments/assets/2d346cd0-987e-40f5-8880-2207e042382f)
 
 ---
 
