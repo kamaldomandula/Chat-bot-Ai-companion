@@ -37,5 +37,4 @@ It features a stylish dark UI, voice input via microphone, and AI voice replies 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/ai-companion-chatbot.git
-cd ai-companion-chatbot
+https://github.com/kamaldomandula/Chat-bot-Ai-companion/edit/main/README.md
